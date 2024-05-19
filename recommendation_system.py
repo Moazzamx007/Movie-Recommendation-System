@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import linear_kernel
 from sklearn.utils import shuffle
 import joblib
 
-df_movies = pd.read_csv(r"D:\Movie\TMDB_movie_dataset_v11.csv")
+df_movies = pd.read_csv("TMDB_movie_dataset_v11.csv")
 df_movies["overview"] = df_movies["overview"].fillna("")
 
 df_movies_shuffled = shuffle(df_movies)
