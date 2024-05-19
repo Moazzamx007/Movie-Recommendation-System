@@ -1,11 +1,11 @@
 # Movie-Recommendation-System
 **Overview**
 
-Welcome to our Movie Recommendation System! This project leverages data from the TMDB 5000 Movie Dataset, which contains information about 10,000 movies collected from The Movie Database (TMDb). The dataset includes various properties associated with movies, such as title, cast, director, runtime, budget, revenue, release year, and more.
+Welcome to our Movie Recommendation System! This project leverages data from the TMDB Movie Dataset, which contains information on a huge number of movies collected from The Movie Database (TMDb). The dataset includes various properties associated with movies, such as title, cast, director, runtime, budget, revenue, release year, and more.
 
 **Dataset Description**
 
-*Source:* TMDB 5000 Movie Dataset on Kaggle
+*Source:* TMDB Movie Dataset on Kaggle
 
 *Link:* https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies/data 
 
